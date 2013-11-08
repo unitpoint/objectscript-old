@@ -1,0 +1,1 @@
+..\Release\profile_benchmark.exe scripts\test_fannkuch.os 9 > profile.txt

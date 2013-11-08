@@ -1,0 +1,13 @@
+/bin
+*.sdf
+*.suo
+*.opensdf
+*.vcxproj.filters
+*.vcxproj.user
+*.osd
+*.osc
+*.ost
+*.o
+/bin/os.exp
+/bin/os.lib
+/unit-tests-os/
